@@ -11,7 +11,7 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      name: "Sarah Chen",
+      name: "Zara Kovač",
       role: "VP of Marketing",
       company: "TechFlow SaaS",
       content: "The copy transformation was incredible. Our trial-to-paid conversion rate jumped from 8% to 22% in just 6 weeks. The strategic approach to messaging really resonated with our target audience.",
@@ -19,7 +19,7 @@ const Testimonials = () => {
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b5ac?w=150&h=150&fit=crop&crop=face"
     },
     {
-      name: "Michael Rodriguez",
+      name: "Kieran Bhatia",
       role: "CEO & Founder",
       company: "DataSync Pro",
       content: "Finally, someone who understands SaaS metrics! The homepage rewrite increased our conversion rate by 176%. The ROI on this investment was immediate and substantial.",
@@ -27,7 +27,7 @@ const Testimonials = () => {
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
     },
     {
-      name: "Emma Thompson",
+      name: "Naia Svensson",
       role: "Head of Growth",
       company: "CloudStack Solutions",
       content: "The email sequences were game-changing. Our user activation rate improved by 89%, and customer retention is the highest it's ever been. Highly strategic and results-driven approach.",
@@ -35,7 +35,7 @@ const Testimonials = () => {
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
     },
     {
-      name: "David Park",
+      name: "Tariq Okafor",
       role: "Product Marketing Manager",
       company: "InnovateSaaS",
       content: "The in-app messaging optimization reduced our support tickets by 40% while increasing feature adoption. The copy perfectly bridges the gap between complex features and user benefits.",
