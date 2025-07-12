@@ -14,7 +14,7 @@ const Testimonials = () => {
       name: "Zara Kovač",
       role: "VP of Marketing",
       company: "TechFlow SaaS",
-      content: "The copy transformation was incredible. Our trial-to-paid conversion rate jumped from 8% to 22% in just 6 weeks. The strategic approach to messaging really resonated with our target audience.",
+      content: "We were bleeding users during trial periods. After the copy overhaul, everything clicked. Our trial-to-paid jumped from 8% to 22%. The messaging finally explained our value in plain English instead of tech jargon.",
       rating: 5,
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b5ac?w=150&h=150&fit=crop&crop=face"
     },
@@ -22,7 +22,7 @@ const Testimonials = () => {
       name: "Kieran Bhatia",
       role: "CEO & Founder",
       company: "DataSync Pro",
-      content: "Finally, someone who understands SaaS metrics! The homepage rewrite increased our conversion rate by 176%. The ROI on this investment was immediate and substantial.",
+      content: "I've worked with seven copywriters before this. None understood SaaS fundamentals like cohort analysis or LTV calculations. This partnership delivered 176% conversion increase because the copy speaks our customers' actual pain points.",
       rating: 5,
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
     },
@@ -30,7 +30,7 @@ const Testimonials = () => {
       name: "Naia Svensson",
       role: "Head of Growth",
       company: "CloudStack Solutions",
-      content: "The email sequences were game-changing. Our user activation rate improved by 89%, and customer retention is the highest it's ever been. Highly strategic and results-driven approach.",
+      content: "Most copywriters create pretty words. This created a revenue machine. Our activation metrics went from concerning to celebration-worthy. The email sequences feel like they're written by someone who's built SaaS products themselves.",
       rating: 5,
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
     },
@@ -38,7 +38,7 @@ const Testimonials = () => {
       name: "Tariq Okafor",
       role: "Product Marketing Manager",
       company: "InnovateSaaS",
-      content: "The in-app messaging optimization reduced our support tickets by 40% while increasing feature adoption. The copy perfectly bridges the gap between complex features and user benefits.",
+      content: "The micro-copy changes were surgical. Support tickets dropped 40% because users actually understand what buttons do now. Feature adoption skyrocketed. It's like having a user experience wizard on the team.",
       rating: 5,
       avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
     }
